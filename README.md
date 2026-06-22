@@ -1,24 +1,25 @@
-Jest to kod zegara stworzonego z użyciem Arduino UNO.
+Jest to kod zegara stworzonego z użyciem Arduino UNO. Jest to mój pierwszy napisany samodzielnie kod za każdy feedback będę wdzięczny.
 
 Wykorzystane elementy:
--Arduino UNO
--Moduł RTC DS1302
--Wyświetlacz OLED 0.96"
--4 przyciski tact swich
+- Arduino UNO
+- Moduł RTC DS1302
+- Wyświetlacz OLED 0.96"
+- 4 przyciski tact swich
 
 Użyte biblioteki:
--Wire
--virtuabotixRTC
--Adafruit_GFX
--Adafruit_SSD1306
+- Wire
+- virtuabotixRTC
+- Adafruit_GFX
+- Adafruit_SSD1306
 
-This is the code for a clock created using an Arduino UNO.
+-------ENGLISH VERSION------------
 
+This is a clock code created using an Arduino UNO. This is my first self-written code, and I'd appreciate any feedback.
 Components used: 
--Arduino UNO 
--DS1302 RTC module
--0.96" OLED display 
--4 tact switches
+- Arduino UNO 
+- DS1302 RTC module
+- 0.96" OLED display 
+- 4 tact switches
 
 Libraries used:
 - Wire
